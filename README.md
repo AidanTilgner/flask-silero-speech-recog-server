@@ -14,3 +14,5 @@ Just run `pip install -r requirements.txt` and then you can run `python app.py`.
 You'll see the server running on port 5000.
 
 You should now be able to record audio, and on hitting the "Stop" button, you'll see the result.
+
+**Make sure to use localhost in development, using the ip of localhost with the http protocal is not considered secure and will not allow recording**
