@@ -3,3 +3,5 @@ onnxruntime
 torch
 flask
 flask_cors
+omegaconf
+torchaudio
